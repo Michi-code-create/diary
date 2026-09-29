@@ -1,0 +1,10 @@
+{
+  "name": "ひびのかけら",
+  "short_name": "ひびのかけら",
+  "description": "24タイプ診断で、あなたに合った日記の書き方が見つかるアプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF8FF",
+  "theme_color": "#FBF8FF",
+  "icons": []
+}
